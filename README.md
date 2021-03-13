@@ -6,7 +6,7 @@
 
 ### ICA - Inteligência Computacional Aplicada
 #### Professor - JOSÉ ALMEIDA DO NASCIMENTO
-##### Projeto : Genetic Algorithms
+##### Projeto : Genetic Algorithms For Net Reserves Problem
 #### ->>  Alexei Alves de Souza
 
 #### Esse Trabalho trata-se da 2° parte da AP2 da disciplina de Inteligência Computacional Aplicada.
