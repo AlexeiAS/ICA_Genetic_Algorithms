@@ -10,4 +10,5 @@
 #### ->>  Alexei Alves de Souza
 
 #### Esse Trabalho trata-se da 2° parte da AP2 da disciplina de Inteligência Computacional Aplicada.
-#### Nele é desenvolvida a partir do conhecimento de Algoritimos genéticos uma solução para um problema de reservas de energia
+#### Nele é desenvolvida a partir do conhecimento de Algoritimos genéticos uma solução para um problema de reservas de energia.
+#### O projeto se encontra no arquivo GA_Net_Reserves_Problem.ipynb, o qual traz uma documentação abrangente dos passos utilizados.
