@@ -5,7 +5,7 @@
 
 
 ### ICA - Inteligência Computacional Aplicada
-#### Professor - JOSE ALMEIDA DO NASCIMENTO
+#### Professor - JOSÉ ALMEIDA DO NASCIMENTO
 ##### Projeto : Genetic Algorithms
 #### ->>  Alexei Alves de Souza
 
